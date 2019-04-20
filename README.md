@@ -21,4 +21,4 @@ Level of education will determine whether an individual falls under either the D
 - Not necessarily for education, but also for the process of retrieving personal educational information that sometimes can be quite costly and cumbersome in the South-African environment (EVENT)
 
 # ESCROW CONTRACT
-- 
+- Executable on the event of demonstrated ability, willingness, and practical execution of applied competence
