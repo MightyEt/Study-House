@@ -1,5 +1,5 @@
 # Study-House
-Self-directed Learning Managment System: Credentials Issuance Smart Contract
+Self-directed Learning Managment System: An Academic Credentials Issuance Smart Contract
 #  THE ERC721 NON-FUNGIBLE UNIQUE CREDENTIALS TOKEN
 Retrieve - Compare - Provide
 # STEP ONE: Retrieve unverified recognised prior learning as per the South-African Qualifications Authority (FUNCTION)
